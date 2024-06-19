@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ovishek</h1>
-<h3 align="center">A passionate builder of software from Bangladesh</h3>
+<h3 align="center">A passionate builder of softwares from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imovishek&label=Profile%20views&color=0e75b6&style=flat" alt="imovishek" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imovishek" alt="imovishek" /></a> </p>
 
 - 🔭 I’m currently working on **Stealth**
 
-- 🌱 I’m currently learning **AI Engineering, RAG, Backend, System Desgin**
+- 🌱 I’m currently learning **AI Engineering, RAG, Backend, System Design**
 
 - 💬 Ask me about **LLMs, react, AI Engineering**
 
